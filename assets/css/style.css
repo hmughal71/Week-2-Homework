@@ -64,34 +64,35 @@ p {
 
 .about1 {
     display:inline-flex;
-    font-family: sans-serif;
-    font-size: 20px;
-    background-color: #2589bd;
-    color: rgb(199, 196, 185);
-}
-
-article2 {
-    display:inline-flex;
-    margin-top: 00px;
-    margin-left: 20px;
-    height: 200px;
-    width: 700px;
-    font-family: sans-serif;
-    font-size: 50px;
-    text-align: center;
-    background-color: #2589bd;
-    color: rgb(199, 196, 185);
+    background-color: #ffffff;
+    color: rgb(66, 65, 60);
 }
 
 #font {
+    font-family: sans-serif;
     font-size: 30px;
+    text-align:justify, center;
     margin-top: 70px;
 }
 
+.work {
+    display:inline-block;
+    height: 258px;
+    width: 160px;
+    background-color: #ffffff;
+    color: rgb(66, 65, 60);
+}
 
-
-
-
+.work1 {
+    display: inline-block;
+    margin-top: -111px;
+    margin-left: 160px;
+    height: 258px;
+    width: 1039px;
+    padding: 20px;
+    background-color: #ffffff;
+    color: rgb(65, 65, 60);
+}
 
 
 
