@@ -64,6 +64,7 @@ p {
 
 .portfolio-tile {
     display:inline-flex;
+    width: 100%;
     background-color: #ffffff;
     color: rgb(66, 65, 60);
     
@@ -109,7 +110,7 @@ p {
     margin-left: 10px;
     padding-left: 0px;
     height: 800px;
-    width: 1270px;
+    width: 100%;
     background-image: url("../images/Surfing-min.jpeg");
     background-size: cover;
     background-position: center;
