@@ -102,16 +102,60 @@ p {
     justify-content: center;
 }
 
-
-
-
-
-
-.hero {
+.workbox1 {
+    display: block;
+    border-style: solid;
+    border-color: rgb(66, 65, 60);
+    margin-left: 10px;
+    padding-left: 0px;
     height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../image/digital-marketing-meeting-min.jpeg");
+    width: 1270px;
+    background-image: url("../images/Surfing-min.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+.inbox {
+    display: flex;
+    margin-top: 660px;
+    margin-left: 0px;
+    padding: 0px;
+    height: 100px;
+    width: 300px;
+    border-left: 0px;
+    background-color: #1e4e75c0
+}
+
+.inbox-font {
+    font-size: 55px;
+    font-family: cursive;
+    text-align: justify, center;
+    color: seashell;
+}
+
+.workbox2 {
+    display:flex;
+    border-style: solid;
+    border-color: rgb(66, 65, 60);
+    margin-left: 10px;
+    padding-left: 0px;
+    height: 200px;
+    width: 635px;
+    background-image: url("../images/LED\ Lights-min.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+.workbox3 {
+    display: flex;
+    border-style: solid;
+    border-color: rgb(66, 65, 60);
+    margin-top: -210px;
+    margin-left: 650px;
+    padding-left: 0px;
+    height: 200px;
+    width: 635px;
+    background-image: url("../images/LED\ Lights-min.jpeg");
     background-size: cover;
     background-position: center;
 }
