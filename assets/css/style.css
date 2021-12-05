@@ -106,7 +106,7 @@ p {
 }
 
 .workbox1 {
-    ddisplay: block;
+    display: block;
     border-style: solid;
     border-color: rgb(66, 65, 60);
     margin-left: 10px;
