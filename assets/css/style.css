@@ -276,12 +276,21 @@ p {
     text-align: left;
 }
 
-.footer-ul {
-    list-style-type: none;
-
+.contact-me1 {
+    display: inline-flexbox;
+    margin-top: 84px;
+    margin-left: 47px;
+    padding: 0px;
+    height: 100px;
+    width: 354px;
+    border-left: 0px;
+    background-color: none;
 }
 
-.footer-li {
-    display: inline-block;
-    margin-left: 25px;
+.footer-fonts {
+    font-size: 25px;
+    font-family: sans-serif;
+    text-decoration: underline;
+    text-align: center;
+    color: black;
 }
