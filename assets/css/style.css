@@ -138,31 +138,150 @@ p {
 }
 
 .workbox2 {
-    display: flex;
+    display: inline-block;
     border-style: solid;
     border-color: rgb(66, 65, 60);
     margin-left: 10px;
-    margin-right: 1000px;
+    margin-right: auto;
     padding-left: 0px;
-    height: 200px;
-    width: 999px;
+    padding-right: 0px;
+    height: 500px;
+    width: 995px;
     background-image: url("../images/LED\ Lights-min.jpeg");
     background-size: cover;
     background-position: center;
+}
+
+.inbox2 {
+    display: flex;
+    margin-top: 353px;
+    margin-left: 0px;
+    padding: 0px;
+    height: 100px;
+    width: 200px;
+    border-left: 0px;
+    background-color: rgba(255, 0, 0, 0.39);
+}
+
+.inbox-font2 {
+    font-size: 55px;
+    font-family: cursive;
+    text-align: justify, center;
+    color: red;
 }
 
 .workbox3 {
     display: flex;
     border-style: solid;
     border-color: rgb(66, 65, 60);
-    margin-top: -205px;
-    margin-left: 1016px;
+    margin-top: -506px;
+    margin-left: 1014px;
     margin-right: 0;
     padding-left: 0px;
-    height: 200px;
-    width: 997px;
-    background-image: url("../images/LED\ Lights-min.jpeg");
+    height: 500px;
+    width: 995px;
+    background-image: url("../images/Calculator.jpeg");
     background-size: cover;
     background-position: center;
 }
 
+.inbox3 {
+    display: flex;
+    margin-top: 353px;
+    margin-left: 0px;
+    padding: 0px;
+    height: 100px;
+    width: 259px;
+    border-left: 0px;
+    background-color: plum;
+}
+
+.inbox-font3 {
+    font-size: 55px;
+    font-family: cursive;
+    text-align: justify, center;
+    color: red;
+}
+
+.workbox4 {
+    display: inline-block;
+    border-style: solid;
+    border-color: rgb(66, 65, 60);
+    margin-left: 10px;
+    margin-right: auto;
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 500px;
+    width: 995px;
+    background-image: url("../images/3D Pastel Puzzle Background-min.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+.inbox4 {
+    display: flex;
+    margin-top: 353px;
+    margin-left: 0px;
+    padding: 0px;
+    height: 100px;
+    width: 354px;
+    border-left: 0px;
+    background-color: #024fc4c0;
+}
+
+.inbox-font4 {
+    font-size: 55px;
+    font-family: cursive;
+    text-align: justify, center;
+    color: #66c3dfd0;
+}
+
+.workbox5 {
+    display: flex;
+    border-style: solid;
+    border-color: rgb(66, 65, 60);
+    margin-top: -506px;
+    margin-left: 1014px;
+    margin-right: 0;
+    padding-left: 0px;
+    height: 500px;
+    width: 995px;
+    background-image: url("../images/Run Buddy image-min.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+.inbox5 {
+    display: flex;
+    margin-top: 353px;
+    margin-left: 0px;
+    padding: 0px;
+    height: 100px;
+    width: 354px;
+    border-left: 0px;
+    background-color: #e6b5124b;
+}
+
+.inbox-font5 {
+    font-size: 55px;
+    font-family: cursive;
+    text-align: justify, center;
+    color: green;
+}
+
+.footer {
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+}
+
+.footer-ul {
+    list-style-type: none;
+
+}
+
+.footer-li {
+    display: inline-block;
+    margin-left: 25px;
+}
